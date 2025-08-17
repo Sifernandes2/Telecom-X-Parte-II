@@ -23,8 +23,7 @@ A análise foi conduzida em ambiente interativo (Google Colab), utilizando bibli
 1. **Preparação dos dados**
    - Extração do Arquivo Tratado
    - Remoção de colunas irrelevantes
-   - s
-
+  
 2. **Separação de variáveis**
    - Explicativas
    - Alvo
